@@ -4,13 +4,37 @@
 	<title>BlackHat Squirrel Blog</title>
 	<link href="http://blackhatsquirrel.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://blackhatsquirrel.github.io/blog"/>
-	<updated>2017-05-21T21:29:11+00:00</updated>
+	<updated>2017-05-22T20:38:15+00:00</updated>
 	<id>http://blackhatsquirrel.github.io/blog</id>
 	<author>
 		<name>BlackHat Squirrel</name>
 		<email>info@blackhatsquirrel.com</email>
 	</author>
 
+	
+		<entry>
+			<title>SecOps Managment Principles</title>
+			<link href="http://blackhatsquirrel.github.io/blog/2017/05/22/secops-management"/>
+			<updated>2017-05-22T00:00:00+00:00</updated>
+			<id>http://blackhatsquirrel.github.io/blog/2017/05/22/secops-management</id>
+			<content type="html">&lt;body&gt;
+&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:16px;&quot;&gt;&lt;span style=&quot;font-family:verdana,geneva,sans-serif;&quot;&gt;&lt;span id=&quot;docs-internal-guid-7825d737-31da-6d8e-346c-637d600470b9&quot;&gt;&lt;span style=&quot;vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Running an efficient and effective SecOps team is arguably the hardest job in IT, let alone security. We&amp;rsquo;re all really excited about plugging in sexy new boxes with flashy lights but when it comes to actually running the damn things we&amp;rsquo;re at a loss. Even approaching what you&amp;rsquo;re meant to do is a nightmare. Does it include patching? Are we a hunt team? Is it more than just a SOC? These are all questions which you&amp;rsquo;ve no doubt ignored in the interest of avoiding as much work as possible. Fortunately we&amp;rsquo;ve come up with a very straightforward way of explaining to your boss what you&amp;rsquo;re meant to do. Whether or not what you&amp;rsquo;re meant to do is what you&amp;rsquo;re actually doing is another story&amp;hellip; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;span style=&quot;font-size:16px;&quot;&gt;&lt;span style=&quot;font-family:verdana,geneva,sans-serif;&quot;&gt;&lt;span id=&quot;docs-internal-guid-7825d737-31da-6d8e-346c-637d600470b9&quot;&gt;&lt;span style=&quot;vertical-align: baseline; white-space: pre-wrap;&quot;&gt;A few years ago we were told by a pilot friend of ours about the three principles of aviation. Several thousand beers later we decided this probably isn&amp;rsquo;t a bad way of looking at security operations.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size:16px;&quot;&gt;&lt;span style=&quot;font-family:verdana,geneva,sans-serif;&quot;&gt;&lt;span style=&quot;vertical-align: baseline; white-space: pre-wrap;&quot;&gt;The full report (in .ppx, .odt or .pdf) can be found at &lt;/span&gt;https://github.com/blackhatsquirrel/ops-management&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;https://github.com/blackhatsquirrel/ops-management/raw/master/SecOps-Management-Overview.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size:16px;&quot;&gt;&lt;span id=&quot;docs-internal-guid-12799194-31db-8cb5-a867-6b288b28fe93&quot;&gt;&lt;span style=&quot;font-family: Verdana; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;It&amp;rsquo;s obviously impossible to say how much time should be assigned to each element of an operations department but guess what&amp;hellip; we&amp;rsquo;ve only gone and done it anyway! &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;https://github.com/blackhatsquirrel/ops-management/raw/master/SecOps-Management-Time-Allottment.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/body&gt;
+</content>
+		</entry>
 	
 		<entry>
 			<title>BlackHat Squirrel is here!</title>

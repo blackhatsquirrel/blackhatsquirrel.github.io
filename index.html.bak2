@@ -11,10 +11,9 @@ title: BlackHat Squirrel
 	<p>You can find some of the latest posts below and there&#39;s an RSS feed hidden here somewhere as well... I&#39;m just not 100% sure where I actually put it.&nbsp;</p>
 </div><!-- /.blurb -->
 
-<ul class="posts">
-    <p><strong>Recent Posts:</strong></p>
+<ul class="10posts">
 
     {% for post in site.posts|slice(0, 10) %}
-        <li><span>{{ post.date | date_to_string }}</span>>> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        <li><span>{{ post.date | date_to_string }}</span><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
