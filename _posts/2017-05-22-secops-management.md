@@ -10,7 +10,7 @@ date: 2017-05-22
 
 <p style="text-align:center"><img alt="" src="https://github.com/blackhatsquirrel/ops-management/raw/master/SecOps-Management-Overview.jpg" /></p>
 
-<p><span style="font-size:16px;"><span id="docs-internal-guid-12799194-31db-8cb5-a867-6b288b28fe93"><span style="font-family: Verdana; vertical-align: baseline; white-space: pre-wrap;">It&rsquo;s obviously impossible to say how much time should be assigned to each element of an operations department but guess what&hellip; we&rsquo;ve only gone and done it anyway! </span></span></span></p>
+<p><span style="font-size:16px;"><span style="font-family:verdana,geneva,sans-serif;"><span style="vertical-align: baseline; white-space: pre-wrap;">It&rsquo;s obviously impossible to say how much time should be assigned to each element of an operations department but guess what&hellip; we&rsquo;ve only gone and done it anyway! </span></span></span></p>
 
 <p style="text-align:center"><img alt="" src="https://github.com/blackhatsquirrel/ops-management/raw/master/SecOps-Management-Time-Allottment.jpg" /></p>
 
