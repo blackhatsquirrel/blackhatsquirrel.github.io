@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 	<html>
 		<head>
+                        <nav>
+                        <ul align="center">
+                                <li><a href="/">Home</a></li>
+                                <li><a href="/about">About</a></li>
+                                <li><a href="/blog">Blog</a></li>
+                        </ul>
+                        </nav>
 			<title>BlackHat Squirrel Blog</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<p style="text-align:center"><img alt="" src="https://github.com/blackhatsquirrel/branding/raw/master/branding-white.jpg" /></p>
 		</head>
 		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
 			<div class="container">
 			
 				<h1><img src="https://github.com/blackhatsquirrel/branding/raw/master/branding-white.jpg";></h1>
