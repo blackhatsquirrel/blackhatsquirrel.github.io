@@ -15,4 +15,3 @@ date: 2017-05-22
 <p style="text-align:center"><img alt="" src="https://github.com/blackhatsquirrel/ops-management/raw/master/SecOps-Management-Time-Allottment.jpg" /></p>
 
 <p>&nbsp;</p>
-</body>
